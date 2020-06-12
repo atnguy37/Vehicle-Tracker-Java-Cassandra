@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Vehicle-Tracker-Java-Cassandra:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Vehicle-Tracker-Java-Cassandra</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Vehicle-Tracker-Java-Cassandra.war">
+      <element id="artifact" artifact-name="Vehicle-Tracker-Java-Cassandra:war exploded" />
+    </root>
+  </artifact>
+</component>
